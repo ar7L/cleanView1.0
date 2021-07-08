@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192.246" height="389" viewBox="0 0 192.246 389">
+  <text id="Product_Types" data-name="Product Types" transform="translate(89.5 17)" fill="#1a1818" font-size="16" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-53.352" y="0">Product Types</tspan></text>
+  <g id="Group_278" data-name="Group 278" transform="translate(-604.5 -3395)">
+    <g id="Group_268" data-name="Group 268">
+      <text id="Hozitonal_App_Slack_Salesforce_Asana_" data-name="Hozitonal App
+(Slack, Salesforce, Asana)" transform="translate(622.4 3642)" fill="#1a1818" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Hozitonal App</tspan><tspan font-family="SegoeUI, Segoe UI" font-weight="400"><tspan x="0" y="20">(Slack, Salesforce, Asana)</tspan></tspan></text>
+      <path id="Path_3472" data-name="Path 3472" d="M7.067.7c.111,0,1,.111,1.11.111a5.428,5.428,0,0,0,1.554-.3A6.865,6.865,0,0,0,11.359-.666c.111-.111.111-.3.148-.37.074-.3.111-.629.185-.814a3.877,3.877,0,0,0,.629-1.48c0-.111.074-.222.074-.333a12.451,12.451,0,0,0-.333-2.553A4.255,4.255,0,0,0,11.4-7.363c-.444-.592-1.11-1.258-1.591-1.85-.037,0-.074-.111-.185-.111s-.481.111-.7.148L7.437-9.4c-.259.037-.629.111-.777.111A4.992,4.992,0,0,0,3.293-7.326c-.111.148-.3.3-.333.37-.259.481-.518,1-.74,1.517a1.093,1.093,0,0,0-.074.481,6.065,6.065,0,0,1-.111,1.7,1.364,1.364,0,0,0,.185.629,3.685,3.685,0,0,1,.407.37c.185.333.185.7.333.925a4.254,4.254,0,0,0,.777.851c.3.222.666.3.962.481.185.148.37.444.481.481A3.342,3.342,0,0,0,5.846.7Z" transform="translate(602.965 3641.898)" fill="red" stroke="#000" stroke-width="1"/>
+    </g>
+    <g id="Group_267" data-name="Group 267" transform="translate(0 21)">
+      <path id="Path_3473" data-name="Path 3473" d="M7.067.7c.111,0,1,.111,1.11.111a5.428,5.428,0,0,0,1.554-.3A6.865,6.865,0,0,0,11.359-.666c.111-.111.111-.3.148-.37.074-.3.111-.629.185-.814a3.877,3.877,0,0,0,.629-1.48c0-.111.074-.222.074-.333a12.451,12.451,0,0,0-.333-2.553A4.255,4.255,0,0,0,11.4-7.363c-.444-.592-1.11-1.258-1.591-1.85-.037,0-.074-.111-.185-.111s-.481.111-.7.148L7.437-9.4c-.259.037-.629.111-.777.111A4.992,4.992,0,0,0,3.293-7.326c-.111.148-.3.3-.333.37-.259.481-.518,1-.74,1.517a1.093,1.093,0,0,0-.074.481,6.065,6.065,0,0,1-.111,1.7,1.364,1.364,0,0,0,.185.629,3.685,3.685,0,0,1,.407.37c.185.333.185.7.333.925a4.254,4.254,0,0,0,.777.851c.3.222.666.3.962.481.185.148.37.444.481.481A3.342,3.342,0,0,0,5.846.7Z" transform="translate(602.965 3665.898)" fill="#fff" stroke="#000" stroke-width="1"/>
+      <text id="Vertical_Application_Jobber_Veeva_" data-name="Vertical Application
+(Jobber, Veeva)" transform="translate(622.4 3667)" fill="#1a1818" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Vertical Application</tspan><tspan font-family="SegoeUI, Segoe UI" font-weight="400"><tspan x="0" y="20">(Jobber, Veeva)</tspan></tspan></text>
+    </g>
+    <g id="Group_266" data-name="Group 266" transform="translate(0 43)">
+      <path id="Path_3474" data-name="Path 3474" d="M7.067.7c.111,0,1,.111,1.11.111a5.428,5.428,0,0,0,1.554-.3A6.865,6.865,0,0,0,11.359-.666c.111-.111.111-.3.148-.37.074-.3.111-.629.185-.814a3.877,3.877,0,0,0,.629-1.48c0-.111.074-.222.074-.333a12.451,12.451,0,0,0-.333-2.553A4.255,4.255,0,0,0,11.4-7.363c-.444-.592-1.11-1.258-1.591-1.85-.037,0-.074-.111-.185-.111s-.481.111-.7.148L7.437-9.4c-.259.037-.629.111-.777.111A4.992,4.992,0,0,0,3.293-7.326c-.111.148-.3.3-.333.37-.259.481-.518,1-.74,1.517a1.093,1.093,0,0,0-.074.481,6.065,6.065,0,0,1-.111,1.7,1.364,1.364,0,0,0,.185.629,3.685,3.685,0,0,1,.407.37c.185.333.185.7.333.925a4.254,4.254,0,0,0,.777.851c.3.222.666.3.962.481.185.148.37.444.481.481A3.342,3.342,0,0,0,5.846.7Z" transform="translate(602.965 3689.898)" fill="#e6dcc4" stroke="#000" stroke-width="1"/>
+      <text id="Developer_Software_DataDog_Auth0_" data-name="Developer Software
+(DataDog, Auth0)" transform="translate(622.4 3691)" fill="#1a1818" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Developer Software</tspan><tspan font-family="SegoeUI, Segoe UI" font-weight="400"><tspan x="0" y="20">(DataDog, Auth0)</tspan></tspan></text>
+    </g>
+    <g id="Group_288" data-name="Group 288" transform="translate(0 89)">
+      <path id="Path_3474-2" data-name="Path 3474" d="M7.067.7c.111,0,1,.111,1.11.111a5.428,5.428,0,0,0,1.554-.3A6.865,6.865,0,0,0,11.359-.666c.111-.111.111-.3.148-.37.074-.3.111-.629.185-.814a3.877,3.877,0,0,0,.629-1.48c0-.111.074-.222.074-.333a12.451,12.451,0,0,0-.333-2.553A4.255,4.255,0,0,0,11.4-7.363c-.444-.592-1.11-1.258-1.591-1.85-.037,0-.074-.111-.185-.111s-.481.111-.7.148L7.437-9.4c-.259.037-.629.111-.777.111A4.992,4.992,0,0,0,3.293-7.326c-.111.148-.3.3-.333.37-.259.481-.518,1-.74,1.517a1.093,1.093,0,0,0-.074.481,6.065,6.065,0,0,1-.111,1.7,1.364,1.364,0,0,0,.185.629,3.685,3.685,0,0,1,.407.37c.185.333.185.7.333.925a4.254,4.254,0,0,0,.777.851c.3.222.666.3.962.481.185.148.37.444.481.481A3.342,3.342,0,0,0,5.846.7Z" transform="translate(602.965 3689.898)" fill="#ffeb00" stroke="#000" stroke-width="1"/>
+      <text id="Other_Don_t_Know" data-name="Other/Don’t Know" transform="translate(622.4 3691)" fill="#1a1818" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Other/Don’t Know</tspan></text>
+    </g>
+  </g>
+  <text id="Most_Common" data-name="Most Common" transform="translate(89.5 36)" fill="#1a1818" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="-39.604" y="0">Most Common</tspan></text>
+  <g id="Group_287" data-name="Group 287" transform="translate(-775.5 -4215.81)">
+    <g id="Group_242" data-name="Group 242" transform="translate(834.042 4286.81)">
+      <g id="Group_191" data-name="Group 191">
+        <path id="Path_3456" data-name="Path 3456" d="M715.368,641.326l-32-65.611a71.746,71.746,0,0,1,32-7.388Z" transform="translate(-683.367 -568.327)" fill="#ffeb00"/>
+      </g>
+    </g>
+    <g id="Group_243" data-name="Group 243" transform="translate(806.985 4294.198)">
+      <g id="Group_193" data-name="Group 193">
+        <path id="Path_3457" data-name="Path 3457" d="M687.2,649.017,628.144,606.11a67.784,67.784,0,0,1,27.057-22.7Z" transform="translate(-628.144 -583.406)" fill="#e6dcc4"/>
+      </g>
+    </g>
+    <g id="Group_244" data-name="Group 244" transform="translate(793 4316.902)">
+      <g id="Group_195" data-name="Group 195">
+        <path id="Path_3458" data-name="Path 3458" d="M672.643,672.652l10.16,72.289a73,73,0,0,1-82.449-62.129,71.488,71.488,0,0,1,13.231-53.068Z" transform="translate(-599.6 -629.744)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_245" data-name="Group 245" transform="translate(866.043 4286.81)">
+      <g id="Group_197" data-name="Group 197">
+        <path id="Path_3459" data-name="Path 3459" d="M748.681,641.326v-73a73,73,0,0,1,73,73c0,37.091-26.11,67.127-62.84,72.289Z" transform="translate(-748.681 -568.327)" fill="red"/>
+      </g>
+    </g>
+    <g id="Group_246" data-name="Group 246" transform="translate(831.042 4284.81)">
+      <g id="Group_191-2" data-name="Group 191">
+        <path id="Path_3456-2" data-name="Path 3456" d="M715.368,641.326l-32-65.611a71.746,71.746,0,0,1,32-7.388Z" transform="translate(-683.367 -568.327)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+    </g>
+    <g id="Group_247" data-name="Group 247" transform="translate(803.985 4292.198)">
+      <g id="Group_193-2" data-name="Group 193">
+        <path id="Path_3457-2" data-name="Path 3457" d="M687.2,649.017,628.144,606.11a67.784,67.784,0,0,1,27.057-22.7Z" transform="translate(-628.144 -583.406)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+    </g>
+    <g id="Group_248" data-name="Group 248" transform="translate(790 4314.902)">
+      <g id="Group_195-2" data-name="Group 195">
+        <path id="Path_3458-2" data-name="Path 3458" d="M672.643,672.652l10.16,72.289a73,73,0,0,1-82.449-62.129,71.488,71.488,0,0,1,13.231-53.068Z" transform="translate(-599.6 -629.744)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+    </g>
+    <g id="Group_249" data-name="Group 249" transform="translate(864.043 4284.81)">
+      <g id="Group_197-2" data-name="Group 197">
+        <path id="Path_3459-2" data-name="Path 3459" d="M748.681,641.326v-73a73,73,0,0,1,73,73c0,37.091-26.11,67.127-62.84,72.289Z" transform="translate(-748.681 -568.327)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+  <g id="Group_289" data-name="Group 289" transform="translate(-652.242 0.954) rotate(-8)">
+    <rect id="Rectangle_255" data-name="Rectangle 255" width="37" height="16" transform="translate(710 162)"/>
+    <text id="_7_" data-name="7%" transform="translate(716 173)" fill="#fff" font-size="16" font-family="SegoeUI, Segoe UI" letter-spacing="0.1em"><tspan x="0" y="0">7%</tspan></text>
+  </g>
+  <g id="Group_291" data-name="Group 291" transform="translate(-584.14 79.074) rotate(-8)">
+    <rect id="Rectangle_255-2" data-name="Rectangle 255" width="49" height="16" transform="translate(710 162)"/>
+    <text id="_48_" data-name="48%" transform="translate(716 173)" fill="#fff" font-size="16" font-family="SegoeUI, Segoe UI" letter-spacing="0.1em"><tspan x="0" y="0">48%</tspan></text>
+  </g>
+  <g id="Group_292" data-name="Group 292" transform="translate(-719.193 119.19) rotate(-8)">
+    <rect id="Rectangle_255-3" data-name="Rectangle 255" width="49" height="16" transform="translate(710 162)"/>
+    <text id="_37_" data-name="37%" transform="translate(716 173)" fill="#fff" font-size="16" font-family="SegoeUI, Segoe UI" letter-spacing="0.1em"><tspan x="0" y="0">37%</tspan></text>
+  </g>
+  <g id="Group_290" data-name="Group 290" transform="translate(-719.193 26.037) rotate(-8)">
+    <rect id="Rectangle_255-4" data-name="Rectangle 255" width="37" height="16" transform="translate(710 162)"/>
+    <text id="_8_" data-name="8%" transform="translate(716 173)" fill="#fff" font-size="16" font-family="SegoeUI, Segoe UI" letter-spacing="0.1em"><tspan x="0" y="0">8%</tspan></text>
+  </g>
+</svg>
