@@ -260,6 +260,14 @@ body p {
 }
 .section-4 .content .content_img {
   margin: 0px 13px;
+  overflow: hidden;
+}
+.section-4 .content .content_img img {
+  transition: 0.4s ease-in-out;
+  overflow: hidden;
+}
+.section-4 .content .content_img img:hover {
+  transform: scale(1.4) rotate(15deg);
 }
 .section-4 .caption {
   align-items: center;
@@ -455,6 +463,9 @@ body p {
   width: 100vw;
 }
 
+.section-7 {
+  transition: 0.4s ease-in-out;
+}
 .section-7 .adopters {
   width: min(751px, 99vw);
 }
@@ -484,12 +495,13 @@ body p {
   font-size: 18px;
 }
 .section-7 .status {
-  width: min(400px, 95vw);
+  width: min(400px, 92vw);
   height: 320px;
   padding: 56px 17px;
   background-color: #fff;
   transform: rotate(-5deg);
   box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.4);
+  transition: 0.4s ease-in-out;
 }
 .section-7 .status .title h1 {
   font-size: 24px;
@@ -512,7 +524,6 @@ body p {
   padding-top: 17px;
   position: relative;
   margin-bottom: 30px;
-  z-index: 1;
 }
 .section-7 .status .title .elems .bar:before {
   position: absolute;
@@ -876,6 +887,33 @@ body p {
   border: 1px solid black;
   border-radius: 0px;
   box-shadow: -5px 3px black;
+}
+
+footer h4 {
+  font-family: ov-bold;
+  font-size: 18px;
+  margin-top: 43px;
+  margin-bottom: 13px;
+  text-transform: uppercase;
+}
+footer ul {
+  padding-left: 0px;
+}
+footer ul li {
+  list-style: none;
+}
+footer ul li a {
+  text-decoration: none;
+  font-family: ov-reg;
+  color: black;
+  font-size: 16px;
+}
+footer ul li:not(:first-child) {
+  margin: 30px 0px;
+}
+footer h5 {
+  font-size: 16px;
+  font-family: ov-reg;
 }
 
 @media (max-width: 1190px) {

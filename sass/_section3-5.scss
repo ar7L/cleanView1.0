@@ -112,7 +112,7 @@
 	.para{
 		font-family: ov-reg;
 		font-size: 18px;
-	    max-width: min(463px,28vw);
+	    max-width: min(463px,95vw);
 	}
 	.content{
 		p{
@@ -121,6 +121,16 @@
 		}
 		.content_img{
 			margin: 0px 13px;
+		    overflow: hidden;
+
+			img{
+				transition: 0.4s ease-in-out;
+				overflow: hidden;
+				&:hover{
+					transform: scale(1.4) rotate(15deg);
+
+				}
+			}
 		}
 	}
 	.caption{

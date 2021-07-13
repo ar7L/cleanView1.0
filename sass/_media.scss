@@ -26,7 +26,7 @@
 	.section-2{
 		h1{
 			margin-top: 0px;
-			font-size: 50px;
+			font-size: min(50px,8vw);
 		}
 		p{
 			width: auto;
@@ -43,11 +43,11 @@
 	}
 	.section-3{
 		h1{
-			font-size: 50px;
+			font-size: min(50px,8vw);
 		}
 		.partners{
 			h1{
-				font-size: 70px;
+				font-size: min(70px,9vw);
 			}
 		}
 	}
