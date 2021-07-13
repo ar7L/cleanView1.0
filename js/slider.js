@@ -12,7 +12,7 @@ for(sld of slideAll){
 var n = document.querySelectorAll('.slide').length;
 var intr = slider.dataset.delay;
 var now=0 , gap = -20;
-for(let i='1';i<='3';++i){
+for(let i=1;i<=n;++i){
   arr.push(document.getElementById(i));
 }
 for(let i=0;i<arr.length;++i){

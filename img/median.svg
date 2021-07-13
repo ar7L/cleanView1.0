@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="729.896" height="229.74" viewBox="0 0 729.896 229.74">
+  <defs>
+    <filter id="Rectangle_594" x="0" y="0" width="387.896" height="229.74" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feFlood flood-opacity="0.039"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_595" x="342" y="0" width="387.896" height="229.74" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur-2"/>
+      <feFlood flood-opacity="0.039"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_594)">
+    <rect id="Rectangle_594-2" data-name="Rectangle 594" width="345.762" height="181.784" transform="matrix(1, -0.03, 0.03, 1, 18, 24.07)" fill="#fff"/>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_595)">
+    <rect id="Rectangle_595-2" data-name="Rectangle 595" width="345.762" height="181.784" transform="matrix(1, -0.03, 0.03, 1, 360, 24.07)" fill="#fff"/>
+  </g>
+  <g id="Group_508" data-name="Group 508" transform="translate(-493.951 -13512.667)">
+    <g id="Group_507" data-name="Group 507" transform="translate(0 8)">
+      <rect id="Rectangle_529" data-name="Rectangle 529" width="102" height="44" transform="translate(581.951 13611.665)" fill="#ffeb00"/>
+      <g id="Rectangle_527" data-name="Rectangle 527" transform="translate(285.58 12676.968)">
+        <rect id="Rectangle_587" data-name="Rectangle 587" width="200" height="40" transform="translate(298.371 936.698)" fill="none"/>
+        <rect id="Rectangle_591" data-name="Rectangle 591" width="198" height="38" transform="translate(299.371 937.698)" fill="none" stroke="#000" stroke-width="2"/>
+      </g>
+      <text id="Median" transform="translate(631.451 13597.666)" font-size="24" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" style="isolation: isolate"><tspan x="0" y="0">MEDIAN</tspan></text>
+      <g id="Group_445" data-name="Group 445" transform="translate(285.58 12676.967)" style="isolation: isolate">
+        <text id="_50_" data-name="50%" transform="translate(462.691 961.698)" font-size="14" font-family="SegoeUI, Segoe UI" style="isolation: isolate"><tspan x="0" y="0">50%</tspan></text>
+      </g>
+    </g>
+    <g id="Group_446" data-name="Group 446" transform="translate(285.58 12683.968)" style="isolation: isolate">
+      <text id="_50_2" data-name="50%" transform="translate(304.371 961.698)" font-size="14" font-family="SegoeUI, Segoe UI" style="isolation: isolate"><tspan x="0" y="0">50%</tspan></text>
+    </g>
+  </g>
+  <g id="Group_506" data-name="Group 506" transform="translate(-154.188 -13603.666)">
+    <rect id="Rectangle_530" data-name="Rectangle 530" width="160.533" height="44" transform="translate(581.951 13707.665)" fill="#ffeb00"/>
+    <g id="Rectangle_528" data-name="Rectangle 528" transform="translate(285.58 12676.968)">
+      <rect id="Rectangle_589" data-name="Rectangle 589" width="200" height="40" transform="translate(298.371 1032.698)" fill="none"/>
+      <rect id="Rectangle_590" data-name="Rectangle 590" width="198" height="38" transform="translate(299.371 1033.698)" fill="none" stroke="#000" stroke-width="2"/>
+    </g>
+    <g id="_2021" data-name=" 2021" transform="translate(276.211 12672.968)" style="isolation: isolate">
+      <text id="Third_Quartile" data-name="Third Quartile" transform="translate(305.741 1020.698)" font-size="24" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" style="isolation: isolate"><tspan x="0" y="0">THIRD QUARTILE</tspan></text>
+    </g>
+    <g id="_75_2" data-name=" 75 2" transform="translate(285.58 12676.968)" style="isolation: isolate">
+      <text id="_20_" data-name="20%" transform="translate(463.691 1057.698)" font-size="14" font-family="SegoeUI, Segoe UI" style="isolation: isolate"><tspan x="0" y="0">20%</tspan></text>
+    </g>
+    <g id="_25_2" data-name=" 25 2" transform="translate(285.58 12676.968)" style="isolation: isolate">
+      <text id="_80_" data-name="80%" transform="translate(304.371 1057.698)" font-size="14" font-family="SegoeUI, Segoe UI" style="isolation: isolate"><tspan x="0" y="0">80%</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,90 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+$bg-prime: #FAF7F0;
+
+@font-face{
+	font-family: 'ov-bold';
+	font-weight: 800;
+	src: url('./../fonts/OV-Bold.ttf');
+}
+
+@font-face{
+	font-family:'ov-reg';
+	font-weight: 100;
+	src: url('./../fonts/OV-Regular.ttf');
+}
+
+body{
+	font-family: ov-reg;
+	background-color: $bg-prime;
+	overflow-x: hidden;
+	ul{
+		li{
+			font-family: ov-reg;
+		}
+	}
+	p{
+		font-family: ov-reg;
+	}
+}
+
+@mixin sm{
+	@media (max-width: 578px){
+		@content;
+	}
+}
+@mixin md{
+	@media (max-width: 768px){
+		@content;
+	}
+}
+@mixin lg{
+	@media (max-width: 992px){
+		@content;
+	}
+}
+@mixin rounder{
+	margin-top: 50px;
+	 	position: relative;
+	 	.content{
+	 		position: absolute;
+	 		left: 50%;
+	 		top: 50%;
+	 		text-align: center;
+	 		transform: translate(-50%,-50%);
+	 		h3{
+	 			font-size: min(36px,4vw);
+	 			font-family: ov-bold;
+	 		}
+	 		h2{
+	 			font-size: min(30px,4vw);
+	 			font-family: ov-bold;
+	 			margin-bottom: min(34px,3vw);
+	 		}
+	 		.btn-read{
+	 			text-transform: uppercase;
+	 			text-decoration: none;
+				border: 2px solid #000;
+			    padding: 20px;
+			    font-size: min(21px,3vw);
+			    font-family: ov-bold;
+			    color: #000;
+			    box-shadow: -5px 3px #000000;
+			    @media (max-width: 534px){
+			    	padding: 5px;
+			    	font-size: 14px;
+			    }
+			    @media (max-width: 765px){
+			    	padding: 10px;
+			    	font-size: 14px;
+			    }
+			    @media (max-width: 474px){
+			    	padding: 5px;
+			    	font-size: 10px;
+			    }
+	 		}
+	 	}
+}

@@ -24,7 +24,7 @@
 
 .slider{
   margin: auto;
-  min-width: 400px;
+  min-width: min(400px,100vw);
   min-height: 360px;
   overflow: hidden;
   position: relative;

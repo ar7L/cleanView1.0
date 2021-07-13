@@ -1,0 +1,345 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="944.739" height="498" viewBox="0 0 944.739 498">
+  <defs>
+    <filter id="Rectangle_592" x="21.012" y="0" width="898" height="498" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_593" data-name="Rectangle 593" width="880" height="480" transform="translate(510 11849)" fill="#f0f0f0"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect width="880" height="861" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect width="880" height="839" fill="none"/>
+    </clipPath>
+    <filter id="Ellipse_3" x="865.041" y="404.615" width="79.698" height="79.697" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur-2"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_3-2" x="0" y="6.615" width="79.698" height="79.697" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur-3"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_592)">
+    <rect id="Rectangle_592-2" data-name="Rectangle 592" width="880" height="480" transform="translate(30.01 6)" fill="#fff"/>
+  </g>
+  <g id="Mask_Group_6" data-name="Mask Group 6" transform="translate(-479.988 -11843)" clip-path="url(#clip-path)">
+    <g id="Group_504" data-name="Group 504">
+      <g id="Repeat_Grid_8" data-name="Repeat Grid 8" transform="translate(510 11668)" clip-path="url(#clip-path-2)">
+        <g transform="translate(-510 -3402)">
+          <rect id="Rectangle_471" data-name="Rectangle 471" width="880" height="1" transform="translate(510 3402)" fill="#f0f0f0"/>
+        </g>
+        <g transform="translate(-510 -3371)">
+          <rect id="Rectangle_471-2" data-name="Rectangle 471" width="880" height="1" transform="translate(510 3402)" fill="#f0f0f0"/>
+        </g>
+        <g transform="translate(-510 -3340)">
+          <rect id="Rectangle_471-3" data-name="Rectangle 471" width="880" height="1" transform="translate(510 3402)" fill="#f0f0f0"/>
+        </g>
+        <g transform="translate(-510 -3309)">
+          <rect id="Rectangle_471-4" data-name="Rectangle 471" width="880" height="1" transform="translate(510 3402)" fill="#f0f0f0"/>
+        </g>
+        <g transform="translate(-510 -3278)">
+          <rect id="Rectangle_471-5" data-name="Rectangle 471" width="880" height="1" transform="translate(510 3402)" fill="#f0f0f0"/>
+        </g>
+        <g transform="translate(-510 -3247)">
+          <rect id="Rectangle_471-6" data-name="Rectangle 471" width="880" height="1" transform="translate(510 3402)" fill="#f0f0f0"/>
+        </g>
+        <g transform="translate(-510 -3216)">
+          <rect id="Rectangle_471-7" data-name="Rectangle 471" width="880" height="1" transform="translate(510 3402)" fill="#f0f0f0"/>
+        </g>
+        <g transform="translate(-510 -3185)">
+          <rect id="Rectangle_471-8" data-name="Rectangle 471" width="880" height="1" transform="translate(510 3402)" fill="#f0f0f0"/>
+        </g>
+        <g transform="translate(-510 -3154)">
+          <rect id="Rectangle_471-9" data-name="Rectangle 471" width="880" height="1" transform="translate(510 3402)" fill="#f0f0f0"/>
+        </g>
+        <g transform="translate(-510 -3123)">
+          <rect id="Rectangle_471-10" data-name="Rectangle 471" width="880" height="1" transform="translate(510 3402)" fill="#f0f0f0"/>
+        </g>
+        <g transform="translate(-510 -3092)">
+          <rect id="Rectangle_471-11" data-name="Rectangle 471" width="880" height="1" transform="translate(510 3402)" fill="#f0f0f0"/>
+        </g>
+        <g transform="translate(-510 -3061)">
+          <rect id="Rectangle_471-12" data-name="Rectangle 471" width="880" height="1" transform="translate(510 3402)" fill="#f0f0f0"/>
+        </g>
+        <g transform="translate(-510 -3030)">
+          <rect id="Rectangle_471-13" data-name="Rectangle 471" width="880" height="1" transform="translate(510 3402)" fill="#f0f0f0"/>
+        </g>
+        <g transform="translate(-510 -2999)">
+          <rect id="Rectangle_471-14" data-name="Rectangle 471" width="880" height="1" transform="translate(510 3402)" fill="#f0f0f0"/>
+        </g>
+        <g transform="translate(-510 -2968)">
+          <rect id="Rectangle_471-15" data-name="Rectangle 471" width="880" height="1" transform="translate(510 3402)" fill="#f0f0f0"/>
+        </g>
+        <g transform="translate(-510 -2937)">
+          <rect id="Rectangle_471-16" data-name="Rectangle 471" width="880" height="1" transform="translate(510 3402)" fill="#f0f0f0"/>
+        </g>
+        <g transform="translate(-510 -2906)">
+          <rect id="Rectangle_471-17" data-name="Rectangle 471" width="880" height="1" transform="translate(510 3402)" fill="#f0f0f0"/>
+        </g>
+        <g transform="translate(-510 -2875)">
+          <rect id="Rectangle_471-18" data-name="Rectangle 471" width="880" height="1" transform="translate(510 3402)" fill="#f0f0f0"/>
+        </g>
+        <g transform="translate(-510 -2844)">
+          <rect id="Rectangle_471-19" data-name="Rectangle 471" width="880" height="1" transform="translate(510 3402)" fill="#f0f0f0"/>
+        </g>
+        <g transform="translate(-510 -2813)">
+          <rect id="Rectangle_471-20" data-name="Rectangle 471" width="880" height="1" transform="translate(510 3402)" fill="#f0f0f0"/>
+        </g>
+        <g transform="translate(-510 -2782)">
+          <rect id="Rectangle_471-21" data-name="Rectangle 471" width="880" height="1" transform="translate(510 3402)" fill="#f0f0f0"/>
+        </g>
+        <g transform="translate(-510 -2751)">
+          <rect id="Rectangle_471-22" data-name="Rectangle 471" width="880" height="1" transform="translate(510 3402)" fill="#f0f0f0"/>
+        </g>
+        <g transform="translate(-510 -2720)">
+          <rect id="Rectangle_471-23" data-name="Rectangle 471" width="880" height="1" transform="translate(510 3402)" fill="#f0f0f0"/>
+        </g>
+        <g transform="translate(-510 -2689)">
+          <rect id="Rectangle_471-24" data-name="Rectangle 471" width="880" height="1" transform="translate(510 3402)" fill="#f0f0f0"/>
+        </g>
+        <g transform="translate(-510 -2658)">
+          <rect id="Rectangle_471-25" data-name="Rectangle 471" width="880" height="1" transform="translate(510 3402)" fill="#f0f0f0"/>
+        </g>
+        <g transform="translate(-510 -2627)">
+          <rect id="Rectangle_471-26" data-name="Rectangle 471" width="880" height="1" transform="translate(510 3402)" fill="#f0f0f0"/>
+        </g>
+        <g transform="translate(-510 -2596)">
+          <rect id="Rectangle_471-27" data-name="Rectangle 471" width="880" height="1" transform="translate(510 3402)" fill="#f0f0f0"/>
+        </g>
+        <g transform="translate(-510 -2565)">
+          <rect id="Rectangle_471-28" data-name="Rectangle 471" width="880" height="1" transform="translate(510 3402)" fill="#f0f0f0"/>
+        </g>
+      </g>
+      <g id="Group_503" data-name="Group 503" transform="translate(4772 11148) rotate(90)">
+        <g id="Repeat_Grid_5" data-name="Repeat Grid 5" transform="translate(510 3402)" clip-path="url(#clip-path-3)">
+          <g transform="translate(-510 -3402)">
+            <rect id="Rectangle_471-29" data-name="Rectangle 471" width="880" height="1" transform="translate(510 3402)" fill="#f0f0f0"/>
+          </g>
+          <g transform="translate(-510 -3371)">
+            <rect id="Rectangle_471-30" data-name="Rectangle 471" width="880" height="1" transform="translate(510 3402)" fill="#f0f0f0"/>
+          </g>
+          <g transform="translate(-510 -3340)">
+            <rect id="Rectangle_471-31" data-name="Rectangle 471" width="880" height="1" transform="translate(510 3402)" fill="#f0f0f0"/>
+          </g>
+          <g transform="translate(-510 -3309)">
+            <rect id="Rectangle_471-32" data-name="Rectangle 471" width="880" height="1" transform="translate(510 3402)" fill="#f0f0f0"/>
+          </g>
+          <g transform="translate(-510 -3278)">
+            <rect id="Rectangle_471-33" data-name="Rectangle 471" width="880" height="1" transform="translate(510 3402)" fill="#f0f0f0"/>
+          </g>
+          <g transform="translate(-510 -3247)">
+            <rect id="Rectangle_471-34" data-name="Rectangle 471" width="880" height="1" transform="translate(510 3402)" fill="#f0f0f0"/>
+          </g>
+          <g transform="translate(-510 -3216)">
+            <rect id="Rectangle_471-35" data-name="Rectangle 471" width="880" height="1" transform="translate(510 3402)" fill="#f0f0f0"/>
+          </g>
+          <g transform="translate(-510 -3185)">
+            <rect id="Rectangle_471-36" data-name="Rectangle 471" width="880" height="1" transform="translate(510 3402)" fill="#f0f0f0"/>
+          </g>
+          <g transform="translate(-510 -3154)">
+            <rect id="Rectangle_471-37" data-name="Rectangle 471" width="880" height="1" transform="translate(510 3402)" fill="#f0f0f0"/>
+          </g>
+          <g transform="translate(-510 -3123)">
+            <rect id="Rectangle_471-38" data-name="Rectangle 471" width="880" height="1" transform="translate(510 3402)" fill="#f0f0f0"/>
+          </g>
+          <g transform="translate(-510 -3092)">
+            <rect id="Rectangle_471-39" data-name="Rectangle 471" width="880" height="1" transform="translate(510 3402)" fill="#f0f0f0"/>
+          </g>
+          <g transform="translate(-510 -3061)">
+            <rect id="Rectangle_471-40" data-name="Rectangle 471" width="880" height="1" transform="translate(510 3402)" fill="#f0f0f0"/>
+          </g>
+          <g transform="translate(-510 -3030)">
+            <rect id="Rectangle_471-41" data-name="Rectangle 471" width="880" height="1" transform="translate(510 3402)" fill="#f0f0f0"/>
+          </g>
+          <g transform="translate(-510 -2999)">
+            <rect id="Rectangle_471-42" data-name="Rectangle 471" width="880" height="1" transform="translate(510 3402)" fill="#f0f0f0"/>
+          </g>
+          <g transform="translate(-510 -2968)">
+            <rect id="Rectangle_471-43" data-name="Rectangle 471" width="880" height="1" transform="translate(510 3402)" fill="#f0f0f0"/>
+          </g>
+          <g transform="translate(-510 -2937)">
+            <rect id="Rectangle_471-44" data-name="Rectangle 471" width="880" height="1" transform="translate(510 3402)" fill="#f0f0f0"/>
+          </g>
+          <g transform="translate(-510 -2906)">
+            <rect id="Rectangle_471-45" data-name="Rectangle 471" width="880" height="1" transform="translate(510 3402)" fill="#f0f0f0"/>
+          </g>
+          <g transform="translate(-510 -2875)">
+            <rect id="Rectangle_471-46" data-name="Rectangle 471" width="880" height="1" transform="translate(510 3402)" fill="#f0f0f0"/>
+          </g>
+          <g transform="translate(-510 -2844)">
+            <rect id="Rectangle_471-47" data-name="Rectangle 471" width="880" height="1" transform="translate(510 3402)" fill="#f0f0f0"/>
+          </g>
+          <g transform="translate(-510 -2813)">
+            <rect id="Rectangle_471-48" data-name="Rectangle 471" width="880" height="1" transform="translate(510 3402)" fill="#f0f0f0"/>
+          </g>
+          <g transform="translate(-510 -2782)">
+            <rect id="Rectangle_471-49" data-name="Rectangle 471" width="880" height="1" transform="translate(510 3402)" fill="#f0f0f0"/>
+          </g>
+          <g transform="translate(-510 -2751)">
+            <rect id="Rectangle_471-50" data-name="Rectangle 471" width="880" height="1" transform="translate(510 3402)" fill="#f0f0f0"/>
+          </g>
+          <g transform="translate(-510 -2720)">
+            <rect id="Rectangle_471-51" data-name="Rectangle 471" width="880" height="1" transform="translate(510 3402)" fill="#f0f0f0"/>
+          </g>
+          <g transform="translate(-510 -2689)">
+            <rect id="Rectangle_471-52" data-name="Rectangle 471" width="880" height="1" transform="translate(510 3402)" fill="#f0f0f0"/>
+          </g>
+          <g transform="translate(-510 -2658)">
+            <rect id="Rectangle_471-53" data-name="Rectangle 471" width="880" height="1" transform="translate(510 3402)" fill="#f0f0f0"/>
+          </g>
+          <g transform="translate(-510 -2627)">
+            <rect id="Rectangle_471-54" data-name="Rectangle 471" width="880" height="1" transform="translate(510 3402)" fill="#f0f0f0"/>
+          </g>
+          <g transform="translate(-510 -2596)">
+            <rect id="Rectangle_471-55" data-name="Rectangle 471" width="880" height="1" transform="translate(510 3402)" fill="#f0f0f0"/>
+          </g>
+          <g transform="translate(-510 -2565)">
+            <rect id="Rectangle_471-56" data-name="Rectangle 471" width="880" height="1" transform="translate(510 3402)" fill="#f0f0f0"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Group_505" data-name="Group 505" transform="translate(-452.017 -11843)">
+    <g id="Group_407" data-name="Group 407" transform="translate(1006.43 11945.093)">
+      <g id="Group_406" data-name="Group 406" transform="translate(0 0)">
+        <path id="Path_3555" data-name="Path 3555" d="M1015.118,155.078H912.444A102.673,102.673,0,0,1,1015.118,52.4h0Z" transform="translate(-912.444 -52.405)" fill="#ec1e24"/>
+      </g>
+    </g>
+    <g id="Group_409" data-name="Group 409" transform="translate(1006 12052.574)">
+      <g id="Group_408" data-name="Group 408" transform="translate(0 0)">
+        <path id="Path_3556" data-name="Path 3556" d="M1015.118,130.726H1117.79a102.673,102.673,0,0,1-205.346,0h102.674Z" transform="translate(-912.444 -130.726)" fill="#e6dbc3"/>
+      </g>
+    </g>
+    <g id="Group_411" data-name="Group 411" transform="translate(1111.507 11946.695)">
+      <g id="Group_410" data-name="Group 410">
+        <path id="Path_3557" data-name="Path 3557" d="M989.013,156.246V53.573a102.672,102.672,0,0,1,102.672,102.673H989.013Z" transform="translate(-989.013 -53.573)" fill="#fde900"/>
+      </g>
+    </g>
+    <g id="Group_413" data-name="Group 413" transform="translate(716.972 12035.338)">
+      <g id="Group_412" data-name="Group 412" transform="translate(0 0)">
+        <path id="Path_3558" data-name="Path 3558" d="M665.082,148.328l100.7-30.162a105.123,105.123,0,0,1-70.541,130.865c-2.224.667-4.833,1.349-7.1,1.858Z" transform="translate(-665.082 -118.166)" fill="#e6dbc3"/>
+      </g>
+    </g>
+    <g id="Group_415" data-name="Group 415" transform="translate(693.375 11957.329)">
+      <g id="Group_414" data-name="Group 414" transform="translate(0 0)">
+        <path id="Path_3559" data-name="Path 3559" d="M670.95,166.527,647.887,63.964c54.378-12.227,107.775,19.008,123.768,72.4Z" transform="translate(-647.887 -61.321)" fill="#fde900"/>
+      </g>
+    </g>
+    <g id="Group_417" data-name="Group 417" transform="translate(606.505 11961.049)">
+      <g id="Group_416" data-name="Group 416" transform="translate(0 0)">
+        <path id="Path_3560" data-name="Path 3560" d="M689.732,166.595,712.8,269.156A105.123,105.123,0,1,1,666.669,64.032h0Z" transform="translate(-584.585 -64.032)" fill="#ec1e24"/>
+      </g>
+    </g>
+    <g id="Group_418" data-name="Group 418" transform="translate(715.909 12032.718)">
+      <path id="Path_3561" data-name="Path 3561" d="M664.308,146.419l100.7-30.162A105.124,105.124,0,0,1,694.47,247.122c-2.224.667-4.832,1.35-7.1,1.859Z" transform="translate(-664.308 -116.257)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+    <g id="Group_419" data-name="Group 419" transform="translate(692.079 11957.189)">
+      <path id="Path_3562" data-name="Path 3562" d="M670.007,166.424,646.943,63.863c54.378-12.229,107.776,19.008,123.768,72.4Z" transform="translate(-646.943 -61.22)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+    <g id="Group_420" data-name="Group 420" transform="translate(608.322 11958.235)">
+      <path id="Path_3563" data-name="Path 3563" d="M691.056,164.545,714.12,267.107A105.124,105.124,0,1,1,667.993,61.982h0Z" transform="translate(-585.909 -61.982)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+    <g id="Group_426" data-name="Group 426" transform="translate(634.934 12194.324)">
+      <path id="Path_3472" data-name="Path 3472" d="M669.138,249.367c.107,0,.961.106,1.066.106a5.188,5.188,0,0,0,1.492-.288,6.567,6.567,0,0,0,1.562-1.129c.107-.107.107-.288.143-.355.071-.288.107-.6.177-.781a3.7,3.7,0,0,0,.6-1.42c0-.107.071-.214.071-.32a12,12,0,0,0-.32-2.451,4.059,4.059,0,0,0-.635-1.1c-.427-.568-1.065-1.208-1.527-1.776-.036,0-.071-.107-.177-.107s-.462.107-.672.143l-1.427-.215c-.248.036-.6.106-.745.106a4.8,4.8,0,0,0-3.233,1.886c-.106.141-.287.287-.32.354-.248.462-.5.961-.71,1.456a1.064,1.064,0,0,0-.071.462,5.815,5.815,0,0,1-.107,1.632,1.32,1.32,0,0,0,.178.6,3.69,3.69,0,0,1,.391.355c.177.32.177.671.318.888a4.137,4.137,0,0,0,.747.817c.288.213.64.288.924.462.177.141.355.425.461.461a3.211,3.211,0,0,0,.64.213Z" transform="translate(-664.308 -231.913)" fill="#ec1e24" stroke="#000" stroke-width="1"/>
+      <g id="Group_425" data-name="Group 425">
+        <text id="_50_Median_Organic" data-name="50% Median Organic" transform="translate(16.704 17)" fill="#1a1717" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" style="isolation: isolate"><tspan x="0" y="0">50% Median Organic</tspan></text>
+        <g id="Group_300" data-name="Group 300" transform="translate(0 25.918)">
+          <path id="Path_3474" data-name="Path 3474" d="M669.138,268.252c.107,0,.961.107,1.066.107a5.188,5.188,0,0,0,1.492-.288,6.564,6.564,0,0,0,1.562-1.129c.107-.107.107-.288.143-.355.071-.288.107-.6.177-.781a3.7,3.7,0,0,0,.6-1.42c0-.107.071-.214.071-.32a12,12,0,0,0-.32-2.451,4.058,4.058,0,0,0-.635-1.1c-.427-.568-1.065-1.208-1.527-1.776-.036,0-.071-.107-.177-.107s-.462.107-.672.141l-1.427-.214c-.248.036-.6.106-.745.106a4.8,4.8,0,0,0-3.233,1.884c-.106.143-.287.288-.32.355-.248.462-.5.961-.71,1.456a1.063,1.063,0,0,0-.071.462,5.815,5.815,0,0,1-.107,1.632,1.32,1.32,0,0,0,.178.6,3.547,3.547,0,0,1,.391.355c.177.32.177.671.318.888a4.137,4.137,0,0,0,.747.817c.288.213.64.288.924.461.177.143.355.427.461.462a3.2,3.2,0,0,0,.64.211Z" transform="translate(-664.308 -250.8)" fill="#fde900" stroke="#000" stroke-width="1"/>
+          <g id="_201-1000" data-name=" 201-1000" transform="translate(15.744)" style="isolation: isolate">
+            <text id="_24_Median_Paid_Sales_Generated_" data-name="24% Median Paid Sales Generated  " transform="translate(0 17)" fill="#1a1717" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" style="isolation: isolate"><tspan x="0" y="0" xml:space="preserve">24% Median Paid Sales Generated  </tspan></text>
+          </g>
+        </g>
+        <g id="Group_299" data-name="Group 299" transform="translate(0 50.876)">
+          <path id="Path_3476" data-name="Path 3476" d="M669.138,286.439c.107,0,.961.107,1.066.107a5.281,5.281,0,0,0,1.492-.288,6.571,6.571,0,0,0,1.562-1.131c.107-.106.107-.287.143-.354.071-.288.107-.6.177-.782a3.687,3.687,0,0,0,.6-1.42c0-.107.071-.213.071-.32a12,12,0,0,0-.32-2.451,4.079,4.079,0,0,0-.635-1.1c-.427-.568-1.065-1.208-1.527-1.776-.036,0-.071-.107-.177-.107s-.462.107-.672.143l-1.427-.215c-.248.036-.6.107-.745.107a4.8,4.8,0,0,0-3.233,1.884c-.106.141-.287.288-.32.355-.248.461-.5.959-.71,1.456a1.061,1.061,0,0,0-.071.461,5.811,5.811,0,0,1-.107,1.632,1.32,1.32,0,0,0,.178.6,3.683,3.683,0,0,1,.391.355c.177.32.177.672.318.888a4.1,4.1,0,0,0,.747.817c.288.214.64.288.924.462.177.141.355.425.461.461a3.213,3.213,0,0,0,.64.213Z" transform="translate(-664.308 -268.986)" fill="#e6dbc3" stroke="#000" stroke-width="1"/>
+          <g id="Group_424" data-name="Group 424" transform="translate(15.744)" style="isolation: isolate">
+            <text id="_26_Median_Other_" data-name="26% Median Other " transform="translate(0 17)" fill="#1a1717" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" style="isolation: isolate"><tspan x="0" y="0">26% Median Other </tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_429" data-name="Group 429" transform="translate(1006.029 11942.688)">
+      <g id="Group_428" data-name="Group 428" transform="translate(0 0)">
+        <path id="Path_3564" data-name="Path 3564" d="M1014.826,153.327H912.152A102.674,102.674,0,0,1,1014.826,50.653h0Z" transform="translate(-912.152 -50.653)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+    </g>
+    <g id="Group_431" data-name="Group 431" transform="translate(1006.029 12046.964)">
+      <g id="Group_430" data-name="Group 430" transform="translate(0 0)">
+        <path id="Path_3565" data-name="Path 3565" d="M1014.826,128.974H1117.5a102.673,102.673,0,0,1-205.346,0h102.674Z" transform="translate(-912.152 -128.974)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+    </g>
+    <g id="Group_433" data-name="Group 433" transform="translate(1111.106 11944.291)">
+      <g id="Group_432" data-name="Group 432" transform="translate(0 0)">
+        <path id="Path_3566" data-name="Path 3566" d="M988.721,154.494V51.821a102.673,102.673,0,0,1,102.674,102.673H988.721Z" transform="translate(-988.721 -51.821)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+    </g>
+    <g id="Group_434" data-name="Group 434" transform="translate(1004.91 11975.28) rotate(-8)">
+      <rect id="Rectangle_255" data-name="Rectangle 255" width="54.967" height="24.43" transform="translate(0 1.319) rotate(-1.375)"/>
+      <text id="_25_" data-name="25%" transform="translate(7.692 20.007) rotate(-1.375)" fill="#fff" font-size="19" font-family="SegoeUI, Segoe UI" letter-spacing="0.1em" style="isolation: isolate"><tspan x="0" y="0">25%</tspan></text>
+    </g>
+    <g id="Group_474" data-name="Group 474" transform="translate(753.963 11980.964) rotate(-8)">
+      <rect id="Rectangle_255-2" data-name="Rectangle 255" width="54.967" height="24.43" transform="translate(0 1.319) rotate(-1.375)"/>
+      <text id="_24_" data-name="24%" transform="translate(7.692 20.007) rotate(-1.375)" fill="#fff" font-size="19" font-family="SegoeUI, Segoe UI" letter-spacing="0.1em" style="isolation: isolate"><tspan x="0" y="0">24%</tspan></text>
+    </g>
+    <g id="Group_475" data-name="Group 475" transform="translate(777.292 12095.029) rotate(-8)">
+      <rect id="Rectangle_255-3" data-name="Rectangle 255" width="54.967" height="24.43" transform="translate(0 1.319) rotate(-1.375)"/>
+      <text id="_26_" data-name="26%" transform="translate(7.692 20.007) rotate(-1.375)" fill="#fff" font-size="19" font-family="SegoeUI, Segoe UI" letter-spacing="0.1em" style="isolation: isolate"><tspan x="0" y="0">26%</tspan></text>
+    </g>
+    <g id="Group_476" data-name="Group 476" transform="translate(592.029 12081.306) rotate(-8)">
+      <rect id="Rectangle_255-4" data-name="Rectangle 255" width="54.967" height="24.43" transform="translate(0 1.319) rotate(-1.375)"/>
+      <text id="_50_" data-name="50%" transform="translate(7.692 20.007) rotate(-1.375)" fill="#fff" font-size="19" font-family="SegoeUI, Segoe UI" letter-spacing="0.1em" style="isolation: isolate"><tspan x="0" y="0">50%</tspan></text>
+    </g>
+    <g id="Group_435" data-name="Group 435" transform="translate(1160.921 11975.28) rotate(-8)">
+      <rect id="Rectangle_255-5" data-name="Rectangle 255" width="54.967" height="24.43" transform="translate(0 1.319) rotate(-1.375)"/>
+      <text id="_25_2" data-name="25%" transform="translate(7.692 20.007) rotate(-1.375)" fill="#fff" font-size="19" font-family="SegoeUI, Segoe UI" letter-spacing="0.1em" style="isolation: isolate"><tspan x="0" y="0">25%</tspan></text>
+    </g>
+    <g id="Group_473" data-name="Group 473" transform="translate(1075.297 12139.951) rotate(-8)">
+      <rect id="Rectangle_255-6" data-name="Rectangle 255" width="54.967" height="24.43" transform="translate(0 1.319) rotate(-1.375)"/>
+      <text id="_50_2" data-name="50%" transform="translate(7.692 20.007) rotate(-1.375)" fill="#fff" font-size="19" font-family="SegoeUI, Segoe UI" letter-spacing="0.1em" style="isolation: isolate"><tspan x="0" y="0">50%</tspan></text>
+    </g>
+    <g id="Group_439" data-name="Group 439" transform="translate(1021.094 12186.533)">
+      <path id="Path_3472-2" data-name="Path 3472" d="M978.96,245.344c.106,0,.959.107,1.065.107a5.264,5.264,0,0,0,1.492-.288,6.574,6.574,0,0,0,1.563-1.131c.106-.106.106-.287.141-.354.071-.288.107-.6.178-.782a3.73,3.73,0,0,0,.6-1.42c0-.107.07-.213.07-.32a11.8,11.8,0,0,0-.32-2.451,4.046,4.046,0,0,0-.635-1.1c-.425-.568-1.065-1.208-1.526-1.776-.036,0-.071-.107-.178-.107s-.461.107-.671.143l-1.429-.215c-.248.036-.6.107-.745.107a4.79,4.79,0,0,0-3.232,1.884c-.107.141-.288.288-.32.355-.248.461-.5.959-.711,1.456a1.062,1.062,0,0,0-.071.461,5.809,5.809,0,0,1-.106,1.632,1.317,1.317,0,0,0,.177.6,3.548,3.548,0,0,1,.391.355c.177.32.177.672.32.888a4.059,4.059,0,0,0,.745.817c.288.214.64.288.924.462.178.141.355.425.462.461a3.156,3.156,0,0,0,.64.213Z" transform="translate(-974.129 -227.89)" fill="#ec1e24" stroke="#000" stroke-width="1"/>
+      <g id="Group_438" data-name="Group 438" transform="translate(0 0)">
+        <text id="_25_Median_Paid_Sales_Generated_" data-name="25% Median Paid Sales Generated  " transform="translate(16.704 17)" fill="#1a1717" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" style="isolation: isolate"><tspan x="0" y="0" xml:space="preserve">25% Median Paid Sales Generated  </tspan></text>
+        <g id="Group_300-2" data-name="Group 300" transform="translate(0 25.919)">
+          <path id="Path_3474-2" data-name="Path 3474" d="M978.96,264.23c.106,0,.959.107,1.065.107a5.263,5.263,0,0,0,1.492-.288,6.575,6.575,0,0,0,1.563-1.131c.106-.106.106-.287.141-.354.071-.288.107-.6.178-.782a3.73,3.73,0,0,0,.6-1.42c0-.107.07-.213.07-.32a11.8,11.8,0,0,0-.32-2.451,4.045,4.045,0,0,0-.635-1.1c-.425-.568-1.065-1.208-1.526-1.776-.036,0-.071-.107-.178-.107s-.461.107-.671.143l-1.429-.215c-.248.036-.6.107-.745.107a4.785,4.785,0,0,0-3.232,1.884c-.107.141-.288.288-.32.355-.248.461-.5.959-.711,1.456a1.063,1.063,0,0,0-.071.461,5.808,5.808,0,0,1-.106,1.632,1.317,1.317,0,0,0,.177.6,3.552,3.552,0,0,1,.391.355c.177.32.177.672.32.888a4.06,4.06,0,0,0,.745.817c.288.214.64.288.924.462.178.141.355.425.462.461a3.155,3.155,0,0,0,.64.213Z" transform="translate(-974.129 -246.777)" fill="#e6dbc3" stroke="#000" stroke-width="1"/>
+          <g id="_201-1000-2" data-name=" 201-1000" transform="translate(15.742)" style="isolation: isolate">
+            <text id="_50_Median_Organic_" data-name="50% Median Organic " transform="translate(0 17)" fill="#1a1717" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" style="isolation: isolate"><tspan x="0" y="0">50% Median Organic </tspan></text>
+          </g>
+        </g>
+        <g id="Group_299-2" data-name="Group 299" transform="translate(0 50.876)">
+          <path id="Path_3476-2" data-name="Path 3476" d="M978.96,282.416c.106,0,.959.107,1.065.107a5.217,5.217,0,0,0,1.492-.288,6.568,6.568,0,0,0,1.563-1.129c.106-.107.106-.288.141-.355.071-.288.107-.6.178-.781a3.746,3.746,0,0,0,.6-1.422c0-.106.07-.213.07-.32a11.789,11.789,0,0,0-.32-2.45,4.053,4.053,0,0,0-.635-1.1c-.425-.568-1.065-1.208-1.526-1.776-.036,0-.071-.106-.178-.106s-.461.106-.671.141l-1.429-.214c-.248.034-.6.106-.745.106a4.79,4.79,0,0,0-3.232,1.884c-.107.143-.288.288-.32.355-.248.462-.5.961-.711,1.456a1.065,1.065,0,0,0-.071.462,5.812,5.812,0,0,1-.106,1.632,1.317,1.317,0,0,0,.177.6,3.411,3.411,0,0,1,.391.355c.177.318.177.671.32.888a4.1,4.1,0,0,0,.745.817c.288.213.64.288.924.461.178.143.355.427.462.462a3.236,3.236,0,0,0,.64.211Z" transform="translate(-974.129 -264.963)" fill="#fde900" stroke="#000" stroke-width="1"/>
+          <g id="Group_437" data-name="Group 437" transform="translate(15.742)" style="isolation: isolate">
+            <text id="_25_Median_Other_" data-name="25% Median Other " transform="translate(0 17)" fill="#1a1717" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" style="isolation: isolate"><tspan x="0" y="0">25% Median Other </tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <text id="PLG" transform="translate(692.079 11920.839)" font-size="24" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" style="isolation: isolate"><tspan x="0" y="0">PLG</tspan></text>
+    <text id="Non-PLG" transform="translate(1056 11920.839)" font-size="24" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" style="isolation: isolate"><tspan x="0" y="0">NON-PLG</tspan></text>
+  </g>
+  <g id="Group_529" data-name="Group 529" transform="translate(363.168 646.084) rotate(-30)">
+    <g transform="matrix(0.87, 0.5, -0.5, 0.87, 8.53, -741.11)" filter="url(#Ellipse_3)">
+      <circle id="Ellipse_3-3" data-name="Ellipse 3" cx="17.84" cy="17.84" r="17.84" transform="matrix(0.26, -0.97, 0.97, 0.26, 883.04, 451.08)" fill="#f31f21"/>
+    </g>
+    <circle id="Ellipse_4" data-name="Ellipse 4" cx="11.267" cy="11.267" r="11.267" transform="translate(560.04 81.723) rotate(-9.146)" fill="#b81719"/>
+  </g>
+  <g id="Group_530" data-name="Group 530" transform="translate(-501.873 248.084) rotate(-30)">
+    <g transform="matrix(0.87, 0.5, -0.5, 0.87, 558.68, 36.09)" filter="url(#Ellipse_3-2)">
+      <circle id="Ellipse_3-4" data-name="Ellipse 3" cx="17.84" cy="17.84" r="17.84" transform="matrix(0.26, -0.97, 0.97, 0.26, 18, 53.08)" fill="#f31f21"/>
+    </g>
+    <circle id="Ellipse_4-2" data-name="Ellipse 4" cx="11.267" cy="11.267" r="11.267" transform="translate(560.04 81.723) rotate(-9.146)" fill="#b81719"/>
+  </g>
+</svg>

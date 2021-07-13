@@ -1,0 +1,67 @@
+@media (max-width: 1190px){
+	.section-3{
+		.logo{
+			img{
+				margin-top: 40px;
+			}
+		}
+	}
+}
+@include lg{
+	.section-3{
+		.side{
+			width: 62%;
+		}
+	}
+}
+@include md{
+	.section-1{
+		.clean-view{
+			flex-direction: column;
+			.right{
+				flex-direction: column;
+			}
+		}
+	}
+	.section-2{
+		h1{
+			margin-top: 0px;
+			font-size: 50px;
+		}
+		p{
+			width: auto;
+		}
+		.download{
+			.sbtn{
+				font-size: 16px;
+			}
+		}
+	}
+	.side{
+		// width: 100%;
+		margin: 0;
+	}
+	.section-3{
+		h1{
+			font-size: 50px;
+		}
+		.partners{
+			h1{
+				font-size: 70px;
+			}
+		}
+	}
+	.section-4{
+		.para{
+			max-width: auto;
+		}
+	}
+}@media (max-width: 280px){
+	body{
+		// background-color: red;
+		h1{
+			font-size: 45px;
+		}
+	}
+
+}
