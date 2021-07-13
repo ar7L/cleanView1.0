@@ -252,7 +252,7 @@ body p {
 .section-4 .para {
   font-family: ov-reg;
   font-size: 18px;
-  max-width: min(463px, 28vw);
+  max-width: min(463px, 95vw);
 }
 .section-4 .content p {
   font-family: ov-bold;
@@ -362,7 +362,7 @@ body p {
   padding: 50px;
 }
 .section-6 .plg h1 {
-  font-size: 60px;
+  font-size: min(60px, 8vw);
   font-family: "ov-bold";
   text-transform: uppercase;
 }
@@ -484,7 +484,7 @@ body p {
   font-size: 18px;
 }
 .section-7 .status {
-  width: 400px;
+  width: min(400px, 95vw);
   height: 320px;
   padding: 56px 17px;
   background-color: #fff;
@@ -898,7 +898,7 @@ body p {
 
   .section-2 h1 {
     margin-top: 0px;
-    font-size: 50px;
+    font-size: min(50px, 8vw);
   }
   .section-2 p {
     width: auto;
@@ -912,10 +912,10 @@ body p {
   }
 
   .section-3 h1 {
-    font-size: 50px;
+    font-size: min(50px, 8vw);
   }
   .section-3 .partners h1 {
-    font-size: 70px;
+    font-size: min(70px, 9vw);
   }
 
   .section-4 .para {
