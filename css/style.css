@@ -1,6 +1,7 @@
 * {
   margin: 0;
   padding: 0;
+  transition: 0.4s ease-in-out;
 }
 
 @font-face {
@@ -13,10 +14,20 @@
   font-weight: 100;
   src: url("./../fonts/OV-Regular.ttf");
 }
-html,body{
+html, body {
   max-width: 100%;
   overflow-x: hidden;
 }
+
+.btn {
+  border-radius: 0px;
+}
+
+.btn-light:hover {
+  filter: invert(100%);
+  transition: 0.5s ease-in-out;
+}
+
 body {
   font-family: ov-reg;
   background-color: #FAF7F0;
@@ -38,6 +49,14 @@ body p {
   background-image: url(./../img/page.svg);
   background-position: cover;
   min-height: 350px;
+}
+.section-1 .whole {
+  position: relative;
+}
+.section-1 .whole .pen {
+  position: absolute;
+  top: 50%;
+  right: -23%;
 }
 .section-1 .clean-view {
   display: flex;
@@ -78,12 +97,6 @@ body p {
   padding-top: 5px;
   transition: 800ms all ease-in-out;
 }
-.section-1 .clean-view .right .fbtn:hover {
-  color: #fff;
-  background-color: #000;
-  box-shadow: -2px 3px #fff;
-  border: 1px solid #fff;
-}
 .section-1 .twenty-21 {
   margin-top: 24px;
   position: relative;
@@ -114,6 +127,11 @@ body p {
   margin-top: -119px;
   font-family: ov-bold;
   font-size: 108px;
+}
+@media (max-width: 990px) {
+  .section-2 h1 {
+    font-size: 100px;
+  }
 }
 .section-2 p {
   width: auto;
@@ -536,7 +554,7 @@ body p {
   top: -5px;
   height: 45px;
   width: var(--value);
-  background-color: yellow;
+  background-color: #FFEB00;
   z-index: -1;
 }
 .section-7 .yikes {

@@ -1,6 +1,7 @@
 *{
 	margin: 0;
 	padding: 0;
+	transition: 0.4s ease-in-out;
 }
 
 $bg-prime: #FAF7F0;
@@ -17,10 +18,25 @@ $bg-prime: #FAF7F0;
 	src: url('./../fonts/OV-Regular.ttf');
 }
 
+html,body{
+	max-width: 100%;
+	overflow-x: hidden;
+}
+.btn{
+	border-radius: 0px;
+}
+
+.btn-light:hover{
+	filter: invert(100%);
+	transition: 0.5s ease-in-out;
+
+}
+
 body{
 	font-family: ov-reg;
 	background-color: $bg-prime;
 	overflow-x: hidden;
+	
 	ul{
 		li{
 			font-family: ov-reg;

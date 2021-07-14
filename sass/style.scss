@@ -19,6 +19,14 @@
 	background-position: cover;
 	min-height: 350px;
 	// max-width: 1600px;
+	.whole{
+		position: relative;
+		.pen{
+			position: absolute;
+			top: 50%;
+			right: -23%;
+		}
+	}
 	.clean-view{
 		display: flex;
 		justify-content: space-between;
@@ -56,10 +64,10 @@
 				padding-top: 5px;
 				transition: 800ms all ease-in-out;
 				&:hover{
-					color: #fff;
-					background-color: #000;
-				    box-shadow: -2px 3px #fff;
-				    border: 1px solid #fff;
+					// color: #fff;
+					// background-color: #000;
+				 //    box-shadow: -2px 3px #fff;
+				 //    border: 1px solid #fff;
 
 				}
 			}
@@ -103,6 +111,9 @@
 		margin-top: -119px;
 		font-family: ov-bold;
 		font-size: 108px;
+		@media (max-width: 990px){
+			font-size: 100px;
+		}
 	}
 	p{
 		width: auto;
