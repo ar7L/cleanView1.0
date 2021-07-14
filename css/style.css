@@ -13,6 +13,10 @@
   font-weight: 100;
   src: url("./../fonts/OV-Regular.ttf");
 }
+html,body{
+  max-width: 100%;
+  overflow-x: hidden;
+}
 body {
   font-family: ov-reg;
   background-color: #FAF7F0;
