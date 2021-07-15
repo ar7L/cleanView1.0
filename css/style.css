@@ -19,6 +19,11 @@ html, body {
   overflow-x: hidden;
 }
 
+object {
+  max-width: 100%;
+  height: auto;
+}
+
 .btn {
   border-radius: 0px;
 }
@@ -386,6 +391,9 @@ body p {
   padding: 50px;
 }
 .section-6 .chart .first-row img:nth-child(2) {
+  margin-top: 64px;
+}
+.section-6 .chart .first-row object:nth-child(2) {
   margin-top: 64px;
 }
 .section-6 .chart .second-row {
