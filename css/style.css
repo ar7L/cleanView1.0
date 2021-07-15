@@ -602,9 +602,9 @@ body p {
 .section-8 .rounded-card .content {
   position: absolute;
   left: 50%;
-  top: 50%;
+  top: 60%;
   text-align: center;
-  transform: translate(-50%, -50%);
+  transform: translate(-50%, -55%);
 }
 .section-8 .rounded-card .content h3 {
   font-size: min(36px, 4vw);
@@ -671,9 +671,9 @@ body p {
 .section-9 .rounded-card .content {
   position: absolute;
   left: 50%;
-  top: 50%;
+  top: 60%;
   text-align: center;
-  transform: translate(-50%, -50%);
+  transform: translate(-50%, -55%);
 }
 .section-9 .rounded-card .content h3 {
   font-size: min(36px, 4vw);
@@ -731,9 +731,9 @@ body p {
 .section-9 .talent .rounded .content {
   position: absolute;
   left: 50%;
-  top: 50%;
+  top: 60%;
   text-align: center;
-  transform: translate(-50%, -50%);
+  transform: translate(-50%, -55%);
 }
 .section-9 .talent .rounded .content h3 {
   font-size: min(36px, 4vw);
@@ -791,9 +791,9 @@ body p {
 .section-10 .rounded .content {
   position: absolute;
   left: 50%;
-  top: 50%;
+  top: 60%;
   text-align: center;
-  transform: translate(-50%, -50%);
+  transform: translate(-50%, -55%);
 }
 .section-10 .rounded .content h3 {
   font-size: min(36px, 4vw);
@@ -855,9 +855,9 @@ body p {
 .section-10 .rounded .content {
   position: absolute;
   left: 50%;
-  top: 50%;
+  top: 60%;
   text-align: center;
-  transform: translate(-50%, -50%);
+  transform: translate(-50%, -55%);
 }
 .section-10 .rounded .content h3 {
   font-size: min(36px, 4vw);
@@ -912,11 +912,19 @@ body p {
   font-family: ov-bold;
 }
 .zig-zag .download-lst .content .download-btn {
-  width: min(661px, 90vw);
-  line-height: 90px;
+  width: min(661px, 70vw);
+  height: 112px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   border: 1px solid black;
   border-radius: 0px;
   box-shadow: -5px 3px black;
+}
+@media (max-width: 700px) {
+  .zig-zag .download-lst .content .download-btn {
+    height: 10vh;
+  }
 }
 
 footer h4 {

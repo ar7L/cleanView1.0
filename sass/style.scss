@@ -205,13 +205,19 @@
 				font-family: ov-bold;
 			}
 			.download-btn{
-				width: min(661px,90vw);
-				// height: 90px;
-				line-height: 90px;
+				width: min(661px,70vw);
+				height: 112px;
+				// line-height: 90px;
+				display: flex;
+				align-items: center;
+				justify-content: center;
 				border: 1px solid black;
 				border-radius: 0px;
 				// padding: 5px 90px;
 				box-shadow: -5px 3px black;
+				@media (max-width: 700px){
+					height: 10vh;
+				}
 
 			}
 		}
